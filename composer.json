@@ -1,5 +1,5 @@
 {
-    "name": "bsre/tte",
+    "name": "bsre/lib-bsre-test",
     "description": "Ini adalah library untuk tanda tangan digital Balai Sertifikasi Elektronik",
     "type": "library",
     "keywords": ["BSrE", "BSSN"],
