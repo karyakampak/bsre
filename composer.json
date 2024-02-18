@@ -1,0 +1,19 @@
+{
+    "name": "bsre/tte",
+    "description": "Ini adalah library untuk tanda tangan digital Balai Sertifikasi Elektronik",
+    "type": "library",
+    "keywords": ["BSrE", "BSSN"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dwi Karyadi",
+            "email": "dwi.karyadi@bssn.go.id"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MyNamespace\\": "src/"
+        }
+    },
+    "require": {}
+}
